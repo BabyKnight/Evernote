@@ -1,0 +1,29 @@
+#!/usr/bin/env python3
+# coding: utf-8
+
+"""
+This module defines:
+
+    + Main entrance of the application, binary (executable file) file under /usr/bin/
+
+.. modeule: evernote
+
+    :synopsis: Main entrance of the application, executable file under /usr/bin/
+
+------
+
+"""
+
+import sys
+from PyQt5 import QtGui
+from PyQt5.QtWidgets import QApplication
+from Evernote.application import App
+
+if __name__ == '__main__':
+
+    UIDIR = "/usr/share/pixmaps"
+    app = QApplication(sys.argv)
+    app.setWindowIcon(QtGui.QIcon(UIDIR + '/evernote.png'))
+
+    ex = App()
+    sys.exit(app.exec_())
