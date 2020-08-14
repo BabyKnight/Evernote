@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 
 import glob, os.path, os
+import subprocess
 from distutils.core import setup
 from DistUtilsExtra.command import (build_extra,
                                     build_i18n,
