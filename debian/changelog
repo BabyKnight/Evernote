@@ -1,4 +1,4 @@
-evernote (0.0.1 preview) bionic; urgency=medium
+evernote (0.0.1-preview) bionic; urgency=medium
 
     * Initial release
     * Desktop application support login and basic functions
