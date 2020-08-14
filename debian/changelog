@@ -1,0 +1,6 @@
+evernote (0.0.1 preview) bionic; urgency=medium
+
+    * Initial release
+    * Desktop application support login and basic functions
+
+ -- Vincent Hu <vinceng.guohua.hu@gmail.com>  Thu, 13 Aug 2020 23:47:21 +0800
