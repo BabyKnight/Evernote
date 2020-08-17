@@ -21,8 +21,8 @@ setup(
     description="Unoffical Evernote Desktop client for Linux OS",
     packages=['Evernote'],
     data_files=[
-                ('share/pixmaps', glob.glob("Evernote/Resources/evernote.png")),
+                ('share/pixmaps', glob.glob("Evernote/Statics/img/evernote.png")),
                 ('share/applications', glob.glob('evernote.desktop')),
-                ('share/evernote',glob.glob("Evernote/Resources/*"))],
+                ('share/evernote',glob.glob("Evernote/Statics/*/*"))],
     scripts=["evernote"],
 )

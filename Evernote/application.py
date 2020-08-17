@@ -17,6 +17,8 @@ This module defines:
 from PyQt5.QtCore import QUrl
 from PyQt5.QtWebEngineWidgets import QWebEngineView
 
+from Evernote.utils import get_url_by_region
+
 
 class App():
 
@@ -25,8 +27,8 @@ class App():
         self.view.setWindowTitle('Evernote')
         self.view.setGeometry(300, 300, 1280, 1080)
 
-        url_string = "https://app.yinxiang.com/Login.action"
-        self.view.load(QUrl(url_string))
+        svr_url = get_url_by_region()
+        self.view.load(QUrl(svr_url))
         self.run()
 
     def run(self):

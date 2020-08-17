@@ -1,0 +1,682 @@
+[
+  {
+    "Name": "Afghanistan",
+    "TwoLetterIsoCode": "AF"
+  },
+  {
+    "Name": "Albania",
+    "TwoLetterIsoCode": "AL"
+  },
+  {
+    "Name": "Algeria",
+    "TwoLetterIsoCode": "DZ"
+  },
+  {
+    "Name": "Angola",
+    "TwoLetterIsoCode": "AO"
+  },
+  {
+    "Name": "Anguilla",
+    "TwoLetterIsoCode": "AI"
+  },
+  {
+    "Name": "Antigua & Barbados",
+    "TwoLetterIsoCode": "AG"
+  },
+  {
+    "Name": "Argentina",
+    "TwoLetterIsoCode": "AR"
+  },
+  {
+    "Name": "Armenia",
+    "TwoLetterIsoCode": "AM"
+  },
+  {
+    "Name": "Aruba",
+    "TwoLetterIsoCode": "AW"
+  },
+  {
+    "Name": "Australia",
+    "TwoLetterIsoCode": "AU"
+  },
+  {
+    "Name": "Austria",
+    "TwoLetterIsoCode": "AT"
+  },
+  {
+    "Name": "Azerbaijan",
+    "TwoLetterIsoCode": "AZ"
+  },
+  {
+    "Name": "Bahamas",
+    "TwoLetterIsoCode": "BS"
+  },
+  {
+    "Name": "Bahrain",
+    "TwoLetterIsoCode": "BH"
+  },
+  {
+    "Name": "Bangladesh",
+    "TwoLetterIsoCode": "BD"
+  },
+  {
+    "Name": "Barbados",
+    "TwoLetterIsoCode": "BB"
+  },
+  {
+    "Name": "Belarus",
+    "TwoLetterIsoCode": "BY"
+  },
+  {
+    "Name": "Belgium",
+    "TwoLetterIsoCode": "BE"
+  },
+  {
+    "Name": "Belize",
+    "TwoLetterIsoCode": "BZ"
+  },
+  {
+    "Name": "Bermuda",
+    "TwoLetterIsoCode": "BM"
+  },
+  {
+    "Name": "Bhutan",
+    "TwoLetterIsoCode": "BT"
+  },
+  {
+    "Name": "Bolivia",
+    "TwoLetterIsoCode": "BO"
+  },
+  {
+    "Name": "Bonaire, Sint Eustatius and Saba",
+    "TwoLetterIsoCode": "BQ"
+  },
+  {
+    "Name": "Bosnia And Herzegovina",
+    "TwoLetterIsoCode": "BA"
+  },
+  {
+    "Name": "Botswana",
+    "TwoLetterIsoCode": "BW"
+  },
+  {
+    "Name": "Brazil",
+    "TwoLetterIsoCode": "BR"
+  },
+  {
+    "Name": "Brunei",
+    "TwoLetterIsoCode": "BN"
+  },
+  {
+    "Name": "Bulgaria",
+    "TwoLetterIsoCode": "BG"
+  },
+  {
+    "Name": "Cambodia",
+    "TwoLetterIsoCode": "KH"
+  },
+  {
+    "Name": "Cameroon",
+    "TwoLetterIsoCode": "CM"
+  },
+  {
+    "Name": "Canada",
+    "TwoLetterIsoCode": "CA"
+  },
+  {
+    "Name": "Cayman Islands",
+    "TwoLetterIsoCode": "KY"
+  },
+  {
+    "Name": "Chile",
+    "TwoLetterIsoCode": "CL"
+  },
+  {
+    "Name": "China",
+    "TwoLetterIsoCode": "CN"
+  },
+  {
+    "Name": "Colombia",
+    "TwoLetterIsoCode": "CO"
+  },
+  {
+    "Name": "Cote d'Ivoire",
+    "TwoLetterIsoCode": "CI"
+  },
+  {
+    "Name": "Costa Rica",
+    "TwoLetterIsoCode": "CR"
+  },
+  {
+    "Name": "Croatia",
+    "TwoLetterIsoCode": "HR"
+  },
+  {
+    "Name": "Curaçao",
+    "TwoLetterIsoCode": "CW"
+  },
+  {
+    "Name": "Cyprus",
+    "TwoLetterIsoCode": "CY"
+  },
+  {
+    "Name": "Czech Republic",
+    "TwoLetterIsoCode": "CZ"
+  },
+  {
+    "Name": "Denmark",
+    "TwoLetterIsoCode": "DK"
+  },
+  {
+    "Name": "Dominica",
+    "TwoLetterIsoCode": "DM"
+  },
+  {
+    "Name": "Dominican Republic",
+    "TwoLetterIsoCode": "DO"
+  },
+  {
+    "Name": "Ecuador",
+    "TwoLetterIsoCode": "EC"
+  },
+  {
+    "Name": "Egypt",
+    "TwoLetterIsoCode": "EG"
+  },
+  {
+    "Name": "El Salvador",
+    "TwoLetterIsoCode": "SV"
+  },
+  {
+    "Name": "Estonia",
+    "TwoLetterIsoCode": "EE"
+  },
+  {
+    "Name": "Ethiopia",
+    "TwoLetterIsoCode": "ET"
+  },
+  {
+    "Name": "Fiji Islands",
+    "TwoLetterIsoCode": "FJ"
+  },
+  {
+    "Name": "Finland",
+    "TwoLetterIsoCode": "FI"
+  },
+  {
+    "Name": "France",
+    "TwoLetterIsoCode": "FR"
+  },
+  {
+    "Name": "French Guiana",
+    "TwoLetterIsoCode": "GF"
+  },
+  {
+    "Name": "French Southern and Antarctic Lands",
+    "TwoLetterIsoCode": "TF"
+  },
+  {
+    "Name": "Gabon",
+    "TwoLetterIsoCode": "GA"
+  },
+  {
+    "Name": "Georgia",
+    "TwoLetterIsoCode": "GE"
+  },
+  {
+    "Name": "Germany",
+    "TwoLetterIsoCode": "DE"
+  },
+  {
+    "Name": "Ghana",
+    "TwoLetterIsoCode": "GH"
+  },
+  {
+    "Name": "Greece",
+    "TwoLetterIsoCode": "GR"
+  },
+  {
+    "Name": "Grenada",
+    "TwoLetterIsoCode": "GD"
+  },
+  {
+    "Name": "Guadeloupe",
+    "TwoLetterIsoCode": "GP"
+  },
+  {
+    "Name": "Guam",
+    "TwoLetterIsoCode": "GU"
+  },
+  {
+    "Name": "Guatemala",
+    "TwoLetterIsoCode": "GT"
+  },
+  {
+    "Name": "Guyana",
+    "TwoLetterIsoCode": "GY"
+  },
+  {
+    "Name": "Haiti",
+    "TwoLetterIsoCode": "HT"
+  },
+  {
+    "Name": "Honduras",
+    "TwoLetterIsoCode": "HN"
+  },
+  {
+    "Name": "Hong Kong",
+    "TwoLetterIsoCode": "HK"
+  },
+  {
+    "Name": "Hungary",
+    "TwoLetterIsoCode": "HU"
+  },
+  {
+    "Name": "Iceland",
+    "TwoLetterIsoCode": "IS"
+  },
+  {
+    "Name": "India",
+    "TwoLetterIsoCode": "IN"
+  },
+  {
+    "Name": "Indonesia",
+    "TwoLetterIsoCode": "ID"
+  },
+  {
+    "Name": "Iraq",
+    "TwoLetterIsoCode": "IQ"
+  },
+  {
+    "Name": "Ireland",
+    "TwoLetterIsoCode": "IE"
+  },
+  {
+    "Name": "Israel",
+    "TwoLetterIsoCode": "IL"
+  },
+  {
+    "Name": "Italy",
+    "TwoLetterIsoCode": "IT"
+  },
+  {
+    "Name": "Jamaica",
+    "TwoLetterIsoCode": "JM"
+  },
+  {
+    "Name": "Japan",
+    "TwoLetterIsoCode": "JP"
+  },
+  {
+    "Name": "Jordan",
+    "TwoLetterIsoCode": "JO"
+  },
+  {
+    "Name": "Kazakhstan",
+    "TwoLetterIsoCode": "KZ"
+  },
+  {
+    "Name": "Kenya",
+    "TwoLetterIsoCode": "KE"
+  },
+  {
+    "Name": "Korea",
+    "TwoLetterIsoCode": "KR"
+  },
+  {
+    "Name": "Korea, Democratic People's Republic of",
+    "TwoLetterIsoCode": "KP"
+  },
+  {
+    "Name": "Kuwait",
+    "TwoLetterIsoCode": "KW"
+  },
+  {
+    "Name": "Kyrgyzstan",
+    "TwoLetterIsoCode": "KG"
+  },
+  {
+    "Name": "Laos",
+    "TwoLetterIsoCode": "LA"
+  },
+  {
+    "Name": "Latvia",
+    "TwoLetterIsoCode": "LV"
+  },
+  {
+    "Name": "Lebanon",
+    "TwoLetterIsoCode": "LB"
+  },
+  {
+    "Name": "Libya",
+    "TwoLetterIsoCode": "LY"
+  },
+  {
+    "Name": "Liechtenstein",
+    "TwoLetterIsoCode": "LI"
+  },
+  {
+    "Name": "Lithuania",
+    "TwoLetterIsoCode": "LT"
+  },
+  {
+    "Name": "Luxembourg",
+    "TwoLetterIsoCode": "LU"
+  },
+  {
+    "Name": "Macao SAR",
+    "TwoLetterIsoCode": "MO"
+  },
+  {
+    "Name": "Madagascar",
+    "TwoLetterIsoCode": "MG"
+  },
+  {
+    "Name": "Malaysia",
+    "TwoLetterIsoCode": "MY"
+  },
+  {
+    "Name": "Maldives",
+    "TwoLetterIsoCode": "MV"
+  },
+  {
+    "Name": "Malta",
+    "TwoLetterIsoCode": "MT"
+  },
+  {
+    "Name": "Martinique",
+    "TwoLetterIsoCode": "MQ"
+  },
+  {
+    "Name": "Mauritius",
+    "TwoLetterIsoCode": "MU"
+  },
+  {
+    "Name": "Mexico",
+    "TwoLetterIsoCode": "MX"
+  },
+  {
+    "Name": "Moldova",
+    "TwoLetterIsoCode": "MD"
+  },
+  {
+    "Name": "Mongolia",
+    "TwoLetterIsoCode": "MN"
+  },
+  {
+    "Name": "Montserrat",
+    "TwoLetterIsoCode": "MS"
+  },
+  {
+    "Name": "Morocco",
+    "TwoLetterIsoCode": "MA"
+  },
+  {
+    "Name": "Myanmar",
+    "TwoLetterIsoCode": "MM"
+  },
+  {
+    "Name": "Namibia",
+    "TwoLetterIsoCode": "NA"
+  },
+  {
+    "Name": "Nepal",
+    "TwoLetterIsoCode": "NP"
+  },
+  {
+    "Name": "Netherlands",
+    "TwoLetterIsoCode": "NL"
+  },
+  {
+    "Name": "Netherlands Antilles",
+    "TwoLetterIsoCode": "AN"
+  },
+  {
+    "Name": "New Caledonia",
+    "TwoLetterIsoCode": "NC"
+  },
+  {
+    "Name": "New Zealand",
+    "TwoLetterIsoCode": "NZ"
+  },
+  {
+    "Name": "Nicaragua",
+    "TwoLetterIsoCode": "NI"
+  },
+  {
+    "Name": "Niger",
+    "TwoLetterIsoCode": "NE"
+  },
+  {
+    "Name": "Nigeria",
+    "TwoLetterIsoCode": "NG"
+  },
+  {
+    "Name": "Norway",
+    "TwoLetterIsoCode": "NO"
+  },
+  {
+    "Name": "Oman",
+    "TwoLetterIsoCode": "OM"
+  },
+  {
+    "Name": "Pakistan",
+    "TwoLetterIsoCode": "PK"
+  },
+  {
+    "Name": "Panama",
+    "TwoLetterIsoCode": "PA"
+  },
+  {
+    "Name": "Papua New Guinea",
+    "TwoLetterIsoCode": "PG"
+  },
+  {
+    "Name": "Paraguay",
+    "TwoLetterIsoCode": "PY"
+  },
+  {
+    "Name": "Peru",
+    "TwoLetterIsoCode": "PE"
+  },
+  {
+    "Name": "Philippines",
+    "TwoLetterIsoCode": "PH"
+  },
+  {
+    "Name": "Poland",
+    "TwoLetterIsoCode": "PL"
+  },
+  {
+    "Name": "Portugal",
+    "TwoLetterIsoCode": "PT"
+  },
+  {
+    "Name": "Puerto Rico",
+    "TwoLetterIsoCode": "PR"
+  },
+  {
+    "Name": "Qatar",
+    "TwoLetterIsoCode": "QA"
+  },
+  {
+    "Name": "Reunion",
+    "TwoLetterIsoCode": "RE"
+  },
+  {
+    "Name": "Romania",
+    "TwoLetterIsoCode": "RO"
+  },
+  {
+    "Name": "Russia",
+    "TwoLetterIsoCode": "RU"
+  },
+  {
+    "Name": "Rwanda",
+    "TwoLetterIsoCode": "RW"
+  },
+  {
+    "Name": "Saint Kitts And Nevis",
+    "TwoLetterIsoCode": "KN"
+  },
+  {
+    "Name": "Saint Lucia",
+    "TwoLetterIsoCode": "LC"
+  },
+  {
+    "Name": "Saint Martin",
+    "TwoLetterIsoCode": "MF"
+  },
+  {
+    "Name": "Saint Vincent And the Grenadines",
+    "TwoLetterIsoCode": "VC"
+  },
+  {
+    "Name": "Samoa",
+    "TwoLetterIsoCode": "WS"
+  },
+  {
+    "Name": "Saudi Arabia",
+    "TwoLetterIsoCode": "SA"
+  },
+  {
+    "Name": "Senegal",
+    "TwoLetterIsoCode": "SN"
+  },
+  {
+    "Name": "Seychelles",
+    "TwoLetterIsoCode": "SC"
+  },
+  {
+    "Name": "Singapore",
+    "TwoLetterIsoCode": "SG"
+  },
+  {
+    "Name": "Slovakia",
+    "TwoLetterIsoCode": "SK"
+  },
+  {
+    "Name": "Slovenia",
+    "TwoLetterIsoCode": "SI"
+  },
+  {
+    "Name": "South Africa",
+    "TwoLetterIsoCode": "ZA"
+  },
+  {
+    "Name": "Spain",
+    "TwoLetterIsoCode": "ES"
+  },
+  {
+    "Name": "Sri Lanka",
+    "TwoLetterIsoCode": "LK"
+  },
+  {
+    "Name": "Suriname",
+    "TwoLetterIsoCode": "SR"
+  },
+  {
+    "Name": "Sweden",
+    "TwoLetterIsoCode": "SE"
+  },
+  {
+    "Name": "Swaziland",
+    "TwoLetterIsoCode": "SZ"
+  },
+  {
+    "Name": "Switzerland",
+    "TwoLetterIsoCode": "CH"
+  },
+  {
+    "Name": "Taiwan",
+    "TwoLetterIsoCode": "TW"
+  },
+  {
+    "Name": "Tajikistan",
+    "TwoLetterIsoCode": "TJ"
+  },
+  {
+    "Name": "Tanzania",
+    "TwoLetterIsoCode": "TZ"
+  },
+  {
+    "Name": "Thailand",
+    "TwoLetterIsoCode": "TH"
+  },
+  {
+    "Name": "Trinidad & Tobago",
+    "TwoLetterIsoCode": "TT"
+  },
+  {
+    "Name": "Tunisia",
+    "TwoLetterIsoCode": "TN"
+  },
+  {
+    "Name": "Turkey",
+    "TwoLetterIsoCode": "TR"
+  },
+  {
+    "Name": "Turkmenistan",
+    "TwoLetterIsoCode": "TM"
+  },
+  {
+    "Name": "Turks and Caicos Islands",
+    "TwoLetterIsoCode": "TC"
+  },
+  {
+    "Name": "Uganda",
+    "TwoLetterIsoCode": "UG"
+  },
+  {
+    "Name": "Ukraine",
+    "TwoLetterIsoCode": "UA"
+  },
+  {
+    "Name": "United Arab Emirates",
+    "TwoLetterIsoCode": "AE"
+  },
+  {
+    "Name": "United Kingdom",
+    "TwoLetterIsoCode": "GB"
+  },
+  {
+    "Name": "United States",
+    "TwoLetterIsoCode": "US"
+  },
+  {
+    "Name": "Uruguay",
+    "TwoLetterIsoCode": "UY"
+  },
+  {
+    "Name": "Uzbekistan",
+    "TwoLetterIsoCode": "UZ"
+  },
+  {
+    "Name": "Venezuela",
+    "TwoLetterIsoCode": "VE"
+  },
+  {
+    "Name": "Virgin Islands",
+    "TwoLetterIsoCode": "VI"
+  },
+  {
+    "Name": "Virgin Islands, British",
+    "TwoLetterIsoCode": "VG"
+  },
+  {
+    "Name": "Yemen",
+    "TwoLetterIsoCode": "YE"
+  },
+  {
+    "Name": "Vietnam",
+    "TwoLetterIsoCode": "VN"
+  },
+  {
+    "Name": "Zambia",
+    "TwoLetterIsoCode": "ZM"
+  },
+  {
+    "Name": "Zimbabwe",
+    "TwoLetterIsoCode": "ZW"
+  }
+]

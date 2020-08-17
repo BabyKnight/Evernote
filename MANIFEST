@@ -5,4 +5,8 @@ setup.cfg
 setup.py
 Evernote/__init__.py
 Evernote/application.py
-Evernote/Resources/evernote.png
+Evernote/utils.py
+Evernote/Statics/img/evernote.png
+Evernote/Statics/json/CountryName.json
+Evernote/Statics/json/Geo2CY.json
+Evernote/Statics/json/TZ_L2W.json

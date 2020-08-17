@@ -1,3 +1,10 @@
+evernote (0.0.1-alpha) bionic; urgency=medium
+
+    * Support auto get default server by current location (Region / Timezone)
+    * Support switch account between Evernote International and Yinxiang (China)
+
+ -- Vincent Hu <vinceng.guohua.hu@gmail.com>  Mon, 17 Aug 2020 25:42:35 +0800
+
 evernote (0.0.1-preview) bionic; urgency=medium
 
     * Initial release

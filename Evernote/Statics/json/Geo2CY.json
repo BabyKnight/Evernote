@@ -1,0 +1,1202 @@
+{
+  "2": {
+    "short_name": "Antigua & Barbados",
+    "full_name": "Antigua and Barbados"
+  },
+  "3": {
+    "short_name": "Afghanistan",
+    "full_name": "Islamic Republic of Afghanistan"
+  },
+  "4": {
+    "short_name": "Algeria",
+    "full_name": "Democratic and Popular Republic of Algeria"
+  },
+  "5": {
+    "short_name": "Azerbaijan",
+    "full_name": "Republic of Azerbaijan"
+  },
+  "6": {
+    "short_name": "Albania",
+    "full_name": "Republic of Albania"
+  },
+  "7": {
+    "short_name": "Armenia",
+    "full_name": "Republic of Armenia"
+  },
+  "8": {
+    "short_name": "Andorra",
+    "full_name": "Principality of Andorra"
+  },
+  "9": {
+    "short_name": "Angola",
+    "full_name": "Republic of Angola"
+  },
+  "10": {
+    "short_name": "American Samoa",
+    "full_name": "Territory of American Samoa"
+  },
+  "11": {
+    "short_name": "Argentina",
+    "full_name": "Argentine Republic"
+  },
+  "12": {
+    "short_name": "Australia",
+    "full_name": "Commonwealth of Australia"
+  },
+  "14": {
+    "short_name": "Austria",
+    "full_name": "Republic of Austria"
+  },
+  "17": {
+    "short_name": "Bahrain",
+    "full_name": "Kingdom of Bahrain"
+  },
+  "18": {
+    "short_name": "Barbados",
+    "full_name": "Barbados"
+  },
+  "19": {
+    "short_name": "Botswana",
+    "full_name": "Republic of Botswana"
+  },
+  "20": {
+    "short_name": "Bermuda",
+    "full_name": "Bermuda"
+  },
+  "21": {
+    "short_name": "Belgium",
+    "full_name": "Kingdom of Belgium"
+  },
+  "22": {
+    "short_name": "Bahamas",
+    "full_name": "Commonwealth of The Bahamas"
+  },
+  "23": {
+    "short_name": "Bangladesh",
+    "full_name": "People's Republic of Bangladesh"
+  },
+  "24": {
+    "short_name": "Belize",
+    "full_name": "Belize"
+  },
+  "25": {
+    "short_name": "Bosnia And Herzegovina",
+    "full_name": "Bosnia and Herzegovina"
+  },
+  "26": {
+    "short_name": "Bolivia",
+    "full_name": "Plurinational State of Bolivia"
+  },
+  "27": {
+    "short_name": "Myanmar",
+    "full_name": "Republic of the Union of Myanmar"
+  },
+  "28": {
+    "short_name": "Benin",
+    "full_name": "Republic of Benin"
+  },
+  "29": {
+    "short_name": "Belarus",
+    "full_name": "Republic of Belarus"
+  },
+  "30": {
+    "short_name": "Solomon Islands",
+    "full_name": "Solomon Islands"
+  },
+  "32": {
+    "short_name": "Brazil",
+    "full_name": "Federative Republic of Brazil"
+  },
+  "34": {
+    "short_name": "Bhutan",
+    "full_name": "Kingdom of Bhutan"
+  },
+  "35": {
+    "short_name": "Bulgaria",
+    "full_name": "Republic of Bulgaria"
+  },
+  "37": {
+    "short_name": "Brunei",
+    "full_name": "Negara Brunei Darussalam"
+  },
+  "38": {
+    "short_name": "Burundi",
+    "full_name": "Republic of Burundi"
+  },
+  "39": {
+    "short_name": "Canada",
+    "full_name": "Canada"
+  },
+  "40": {
+    "short_name": "Cambodia",
+    "full_name": "Kingdom of Cambodia"
+  },
+  "41": {
+    "short_name": "Chad",
+    "full_name": "Republic of Chad"
+  },
+  "42": {
+    "short_name": "Sri Lanka",
+    "full_name": "Democratic Socialist Republic of Sri Lanka"
+  },
+  "43": {
+    "short_name": "Congo",
+    "full_name": "Republic of the Congo"
+  },
+  "44": {
+    "short_name": "Congo (DRC)",
+    "full_name": "Democratic Republic of the Congo"
+  },
+  "45": {
+    "short_name": "China",
+    "full_name": "People's Republic of China"
+  },
+  "46": {
+    "short_name": "Chile",
+    "full_name": "Republic of Chile"
+  },
+  "49": {
+    "short_name": "Cameroon",
+    "full_name": "Republic of Cameroon"
+  },
+  "50": {
+    "short_name": "Comoros",
+    "full_name": "Union of Comoros"
+  },
+  "51": {
+    "short_name": "Colombia",
+    "full_name": "Republic of Colombia"
+  },
+  "54": {
+    "short_name": "Costa Rica",
+    "full_name": "Republic of Costa Rica"
+  },
+  "55": {
+    "short_name": "Central African Republic",
+    "full_name": "Central African Republic"
+  },
+  "56": {
+    "short_name": "Cuba",
+    "full_name": "Republic of Cuba"
+  },
+  "57": {
+    "short_name": "Cabo Verde",
+    "full_name": "Republic of Cabo Verde"
+  },
+  "59": {
+    "short_name": "Cyprus",
+    "full_name": "Republic of Cyprus"
+  },
+  "61": {
+    "short_name": "Denmark",
+    "full_name": "Kingdom of Denmark"
+  },
+  "62": {
+    "short_name": "Djibouti",
+    "full_name": "Republic of Djibouti"
+  },
+  "63": {
+    "short_name": "Dominica",
+    "full_name": "Commonwealth of Dominica"
+  },
+  "65": {
+    "short_name": "Dominican Republic",
+    "full_name": "Dominican Republic"
+  },
+  "66": {
+    "short_name": "Ecuador",
+    "full_name": "Republic of Ecuador"
+  },
+  "67": {
+    "short_name": "Egypt",
+    "full_name": "Arab Republic of Egypt"
+  },
+  "68": {
+    "short_name": "Ireland",
+    "full_name": "Ireland"
+  },
+  "69": {
+    "short_name": "Equatorial Guinea",
+    "full_name": "Republic of Equatorial Guinea"
+  },
+  "70": {
+    "short_name": "Estonia",
+    "full_name": "Republic of Estonia"
+  },
+  "71": {
+    "short_name": "Eritrea",
+    "full_name": "State of Eritrea"
+  },
+  "72": {
+    "short_name": "El Salvador",
+    "full_name": "Republic of El Salvador"
+  },
+  "73": {
+    "short_name": "Ethiopia",
+    "full_name": "Federal Democratic Republic of Ethiopia"
+  },
+  "75": {
+    "short_name": "Czech Republic",
+    "full_name": "Czech Republic"
+  },
+  "77": {
+    "short_name": "Finland",
+    "full_name": "Republic of Finland"
+  },
+  "78": {
+    "short_name": "Fiji Islands",
+    "full_name": "Republic of the Fiji Islands"
+  },
+  "80": {
+    "short_name": "Micronesia",
+    "full_name": "Federated States of Micronesia"
+  },
+  "81": {
+    "short_name": "Faroe Islands",
+    "full_name": "Faroe Islands"
+  },
+  "84": {
+    "short_name": "France",
+    "full_name": "French Republic"
+  },
+  "86": {
+    "short_name": "Gambia",
+    "full_name": "Republic of The Gambia"
+  },
+  "87": {
+    "short_name": "Gabon",
+    "full_name": "Gabonese Republic"
+  },
+  "88": {
+    "short_name": "Georgia",
+    "full_name": "Georgia"
+  },
+  "89": {
+    "short_name": "Ghana",
+    "full_name": "Republic of Ghana"
+  },
+  "90": {
+    "short_name": "Gibraltar",
+    "full_name": "Gibraltar"
+  },
+  "91": {
+    "short_name": "Grenada",
+    "full_name": "Grenada"
+  },
+  "93": {
+    "short_name": "Greenland",
+    "full_name": "Greenland"
+  },
+  "94": {
+    "short_name": "Germany",
+    "full_name": "Federal Republic of Germany"
+  },
+  "98": {
+    "short_name": "Greece",
+    "full_name": "Hellenic Republic"
+  },
+  "99": {
+    "short_name": "Guatemala",
+    "full_name": "Republic of Guatemala"
+  },
+  "100": {
+    "short_name": "Guinea",
+    "full_name": "Republic of Guinea"
+  },
+  "101": {
+    "short_name": "Guyana",
+    "full_name": "Cooperative Republic of Guyana"
+  },
+  "103": {
+    "short_name": "Haiti",
+    "full_name": "Republic of Haiti"
+  },
+  "104": {
+    "short_name": "Hong Kong",
+    "full_name": "Hong Kong Special Administrative Region"
+  },
+  "106": {
+    "short_name": "Honduras",
+    "full_name": "Republic of Honduras"
+  },
+  "108": {
+    "short_name": "Croatia",
+    "full_name": "Republic of Croatia"
+  },
+  "109": {
+    "short_name": "Hungary",
+    "full_name": "Republic of Hungary"
+  },
+  "110": {
+    "short_name": "Iceland",
+    "full_name": "Republic of Iceland"
+  },
+  "111": {
+    "short_name": "Indonesia",
+    "full_name": "Republic of Indonesia"
+  },
+  "113": {
+    "short_name": "India",
+    "full_name": "Republic of India"
+  },
+  "114": {
+    "short_name": "British Indian Ocean Territory",
+    "full_name": "British Indian Ocean Territory"
+  },
+  "116": {
+    "short_name": "Iran",
+    "full_name": "Islamic Republic of Iran"
+  },
+  "117": {
+    "short_name": "Israel",
+    "full_name": "State of Israel"
+  },
+  "118": {
+    "short_name": "Italy",
+    "full_name": "Italian Republic"
+  },
+  "119": {
+    "short_name": "C\u00f4te d'Ivoire",
+    "full_name": "Republic of C\u00f4te d'Ivoire"
+  },
+  "121": {
+    "short_name": "Iraq",
+    "full_name": "Republic of Iraq"
+  },
+  "122": {
+    "short_name": "Japan",
+    "full_name": "Japan"
+  },
+  "124": {
+    "short_name": "Jamaica",
+    "full_name": "Jamaica"
+  },
+  "125": {
+    "short_name": "Jan Mayen",
+    "full_name": "Jan Mayen"
+  },
+  "126": {
+    "short_name": "Jordan",
+    "full_name": "Hashemite Kingdom of Jordan"
+  },
+  "127": {
+    "short_name": "Johnston Atoll",
+    "full_name": ""
+  },
+  "129": {
+    "short_name": "Kenya",
+    "full_name": "Republic of Kenya"
+  },
+  "130": {
+    "short_name": "Kyrgyzstan",
+    "full_name": "Kyrgyz Republic"
+  },
+  "131": {
+    "short_name": "North Korea",
+    "full_name": "Democratic People's Republic of Korea"
+  },
+  "133": {
+    "short_name": "Kiribati",
+    "full_name": "Republic of Kiribati"
+  },
+  "134": {
+    "short_name": "Korea",
+    "full_name": "Republic of Korea"
+  },
+  "136": {
+    "short_name": "Kuwait",
+    "full_name": "State of Kuwait"
+  },
+  "137": {
+    "short_name": "Kazakhstan",
+    "full_name": "Republic of Kazakhstan"
+  },
+  "138": {
+    "short_name": "Laos",
+    "full_name": "Lao People's Democratic Republic"
+  },
+  "139": {
+    "short_name": "Lebanon",
+    "full_name": "Republic of Lebanon"
+  },
+  "140": {
+    "short_name": "Latvia",
+    "full_name": "Republic of Latvia"
+  },
+  "141": {
+    "short_name": "Lithuania",
+    "full_name": "Republic of Lithuania"
+  },
+  "142": {
+    "short_name": "Liberia",
+    "full_name": "Republic of Liberia"
+  },
+  "143": {
+    "short_name": "Slovakia",
+    "full_name": "Slovak Republic"
+  },
+  "145": {
+    "short_name": "Liechtenstein",
+    "full_name": "Principality of Liechtenstein"
+  },
+  "146": {
+    "short_name": "Lesotho",
+    "full_name": "Kingdom of Lesotho"
+  },
+  "147": {
+    "short_name": "Luxembourg",
+    "full_name": "Grand Duchy of Luxembourg"
+  },
+  "148": {
+    "short_name": "Libya",
+    "full_name": "Libya"
+  },
+  "149": {
+    "short_name": "Madagascar",
+    "full_name": "Republic of Madagascar"
+  },
+  "151": {
+    "short_name": "Macao SAR",
+    "full_name": "Macao Special Administrative Region"
+  },
+  "152": {
+    "short_name": "Moldova",
+    "full_name": "Republic of Moldova"
+  },
+  "154": {
+    "short_name": "Mongolia",
+    "full_name": "Mongolia"
+  },
+  "156": {
+    "short_name": "Malawi",
+    "full_name": "Republic of Malawi"
+  },
+  "157": {
+    "short_name": "Mali",
+    "full_name": "Republic of Mali"
+  },
+  "158": {
+    "short_name": "Monaco",
+    "full_name": "Principality of Monaco"
+  },
+  "159": {
+    "short_name": "Morocco",
+    "full_name": "Kingdom of Morocco"
+  },
+  "160": {
+    "short_name": "Mauritius",
+    "full_name": "Republic of Mauritius"
+  },
+  "162": {
+    "short_name": "Mauritania",
+    "full_name": "Islamic Republic of Mauritania"
+  },
+  "163": {
+    "short_name": "Malta",
+    "full_name": "Republic of Malta"
+  },
+  "164": {
+    "short_name": "Oman",
+    "full_name": "Sultanate of Oman"
+  },
+  "165": {
+    "short_name": "Maldives",
+    "full_name": "Republic of Maldives"
+  },
+  "166": {
+    "short_name": "Mexico",
+    "full_name": "United Mexican States"
+  },
+  "167": {
+    "short_name": "Malaysia",
+    "full_name": "Federation of Malaysia"
+  },
+  "168": {
+    "short_name": "Mozambique",
+    "full_name": "Republic of Mozambique"
+  },
+  "173": {
+    "short_name": "Niger",
+    "full_name": "Republic of Niger"
+  },
+  "174": {
+    "short_name": "Vanuatu",
+    "full_name": "Republic of Vanuatu"
+  },
+  "175": {
+    "short_name": "Nigeria",
+    "full_name": "Federal Republic of Nigeria"
+  },
+  "176": {
+    "short_name": "Netherlands",
+    "full_name": "Kingdom of the Netherlands"
+  },
+  "177": {
+    "short_name": "Norway",
+    "full_name": "Kingdom of Norway"
+  },
+  "178": {
+    "short_name": "Nepal",
+    "full_name": "Federal Democratic Republic of Nepal"
+  },
+  "180": {
+    "short_name": "Nauru",
+    "full_name": "Republic of Nauru"
+  },
+  "181": {
+    "short_name": "Suriname",
+    "full_name": "Republic of Suriname"
+  },
+  "182": {
+    "short_name": "Nicaragua",
+    "full_name": "Republic of Nicaragua"
+  },
+  "183": {
+    "short_name": "New Zealand",
+    "full_name": "New Zealand"
+  },
+  "184": {
+    "short_name": "Palestinian Authority",
+    "full_name": "Palestinian National Authority"
+  },
+  "185": {
+    "short_name": "Paraguay",
+    "full_name": "Republic of Paraguay"
+  },
+  "187": {
+    "short_name": "Peru",
+    "full_name": "Republic of Peru"
+  },
+  "190": {
+    "short_name": "Pakistan",
+    "full_name": "Islamic Republic of Pakistan"
+  },
+  "191": {
+    "short_name": "Poland",
+    "full_name": "Republic of Poland"
+  },
+  "192": {
+    "short_name": "Panama",
+    "full_name": "Republic of Panama"
+  },
+  "193": {
+    "short_name": "Portugal",
+    "full_name": "Portuguese Republic"
+  },
+  "194": {
+    "short_name": "Papua New Guinea",
+    "full_name": "Independent State of Papua New Guinea"
+  },
+  "195": {
+    "short_name": "Palau",
+    "full_name": "Republic of Palau"
+  },
+  "196": {
+    "short_name": "Guinea-Bissau",
+    "full_name": "Republic of Guinea-Bissau"
+  },
+  "197": {
+    "short_name": "Qatar",
+    "full_name": "State of Qatar"
+  },
+  "198": {
+    "short_name": "R\u00e9union",
+    "full_name": "Department of R\u00e9union"
+  },
+  "199": {
+    "short_name": "Marshall Islands",
+    "full_name": "Republic of the Marshall Islands"
+  },
+  "200": {
+    "short_name": "Romania",
+    "full_name": "Romania"
+  },
+  "201": {
+    "short_name": "Philippines",
+    "full_name": "Republic of the Philippines"
+  },
+  "202": {
+    "short_name": "Puerto Rico",
+    "full_name": "Commonwealth of Puerto Rico"
+  },
+  "203": {
+    "short_name": "Russia",
+    "full_name": "Russian Federation"
+  },
+  "204": {
+    "short_name": "Rwanda",
+    "full_name": "Republic of Rwanda"
+  },
+  "205": {
+    "short_name": "Saudi Arabia",
+    "full_name": "Kingdom of Saudi Arabia"
+  },
+  "206": {
+    "short_name": "Saint Pierre and Miquelon",
+    "full_name": "Territorial Collectivity of Saint Pierre and Miquelon"
+  },
+  "207": {
+    "short_name": "Saint Kitts And Nevis",
+    "full_name": "Federation of Saint Kitts and Nevis"
+  },
+  "208": {
+    "short_name": "Seychelles",
+    "full_name": "Republic of Seychelles"
+  },
+  "209": {
+    "short_name": "South Africa",
+    "full_name": "Republic of South Africa"
+  },
+  "210": {
+    "short_name": "Senegal",
+    "full_name": "Republic of Senegal"
+  },
+  "212": {
+    "short_name": "Slovenia",
+    "full_name": "Republic of Slovenia"
+  },
+  "213": {
+    "short_name": "Sierra Leone",
+    "full_name": "Republic of Sierra Leone"
+  },
+  "214": {
+    "short_name": "San Marino",
+    "full_name": "Republic of San Marino"
+  },
+  "215": {
+    "short_name": "Singapore",
+    "full_name": "Republic of Singapore"
+  },
+  "216": {
+    "short_name": "Somalia",
+    "full_name": "Federal Republic of Somalia"
+  },
+  "217": {
+    "short_name": "Spain",
+    "full_name": "Kingdom of Spain"
+  },
+  "218": {
+    "short_name": "Saint Lucia",
+    "full_name": "Saint Lucia"
+  },
+  "219": {
+    "short_name": "Sudan",
+    "full_name": "Republic of the Sudan"
+  },
+  "220": {
+    "short_name": "Svalbard",
+    "full_name": "Svalbard"
+  },
+  "221": {
+    "short_name": "Sweden",
+    "full_name": "Kingdom of Sweden"
+  },
+  "222": {
+    "short_name": "Syria",
+    "full_name": "Syrian Arab Republic"
+  },
+  "223": {
+    "short_name": "Switzerland",
+    "full_name": "Swiss Confederation"
+  },
+  "224": {
+    "short_name": "United Arab Emirates",
+    "full_name": "United Arab Emirates"
+  },
+  "225": {
+    "short_name": "Trinidad & Tobago",
+    "full_name": "Republic of Trinidad and Tobago"
+  },
+  "227": {
+    "short_name": "Thailand",
+    "full_name": "Kingdom of Thailand"
+  },
+  "228": {
+    "short_name": "Tajikistan",
+    "full_name": "Republic of Tajikistan"
+  },
+  "231": {
+    "short_name": "Tonga",
+    "full_name": "Kingdom of Tonga"
+  },
+  "232": {
+    "short_name": "Togo",
+    "full_name": "Togolese Republic"
+  },
+  "233": {
+    "short_name": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+    "full_name": "Democratic Republic of S\u00e3o Tom\u00e9 and Pr\u00edncipe"
+  },
+  "234": {
+    "short_name": "Tunisia",
+    "full_name": "Tunisian Republic"
+  },
+  "235": {
+    "short_name": "Turkey",
+    "full_name": "Republic of Turkey"
+  },
+  "236": {
+    "short_name": "Tuvalu",
+    "full_name": "Tuvalu"
+  },
+  "237": {
+    "short_name": "Taiwan",
+    "full_name": "Taiwan"
+  },
+  "238": {
+    "short_name": "Turkmenistan",
+    "full_name": "Republic of Turkmenistan"
+  },
+  "239": {
+    "short_name": "Tanzania",
+    "full_name": "United Republic of Tanzania"
+  },
+  "240": {
+    "short_name": "Uganda",
+    "full_name": "Republic of Uganda"
+  },
+  "241": {
+    "short_name": "Ukraine",
+    "full_name": "Ukraine"
+  },
+  "242": {
+    "short_name": "United Kingdom",
+    "full_name": "United Kingdom of Great Britain and Northern Ireland"
+  },
+  "244": {
+    "short_name": "United States",
+    "full_name": "United States of America"
+  },
+  "245": {
+    "short_name": "Burkina Faso",
+    "full_name": "Burkina Faso"
+  },
+  "246": {
+    "short_name": "Uruguay",
+    "full_name": "Oriental Republic of Uruguay"
+  },
+  "247": {
+    "short_name": "Uzbekistan",
+    "full_name": "Republic of Uzbekistan"
+  },
+  "248": {
+    "short_name": "Saint Vincent And the Grenadines",
+    "full_name": "Saint Vincent And the Grenadines"
+  },
+  "249": {
+    "short_name": "Venezuela",
+    "full_name": "Bolivarian Republic of Venezuela"
+  },
+  "251": {
+    "short_name": "Vietnam",
+    "full_name": "Socialist Republic of Vietnam"
+  },
+  "252": {
+    "short_name": "Virgin Islands",
+    "full_name": "Virgin Islands of the United States"
+  },
+  "253": {
+    "short_name": "Vatican City",
+    "full_name": "State of Vatican City"
+  },
+  "254": {
+    "short_name": "Namibia",
+    "full_name": "Republic of Namibia"
+  },
+  "258": {
+    "short_name": "Wake Island",
+    "full_name": ""
+  },
+  "259": {
+    "short_name": "Samoa",
+    "full_name": "Independent State of Samoa"
+  },
+  "260": {
+    "short_name": "Swaziland",
+    "full_name": "Kingdom of Swaziland"
+  },
+  "261": {
+    "short_name": "Yemen",
+    "full_name": "Republic of Yemen"
+  },
+  "263": {
+    "short_name": "Zambia",
+    "full_name": "Republic of Zambia"
+  },
+  "264": {
+    "short_name": "Zimbabwe",
+    "full_name": "Republic of Zimbabwe"
+  },
+  "269": {
+    "short_name": "Serbia and Montenegro (Former)",
+    "full_name": "Serbia and Montenegro (Former)"
+  },
+  "270": {
+    "short_name": "Montenegro",
+    "full_name": "Montenegro"
+  },
+  "271": {
+    "short_name": "Serbia",
+    "full_name": "Serbia"
+  },
+  "273": {
+    "short_name": "Cura\u00e7ao",
+    "full_name": ""
+  },
+  "300": {
+    "short_name": "Anguilla",
+    "full_name": "Anguilla"
+  },
+  "276": {
+    "short_name": "South Sudan",
+    "full_name": "The Republic of South Sudan"
+  },
+  "301": {
+    "short_name": "Antarctica",
+    "full_name": "Antarctica"
+  },
+  "302": {
+    "short_name": "Aruba",
+    "full_name": "Aruba"
+  },
+  "303": {
+    "short_name": "Ascension Island",
+    "full_name": ""
+  },
+  "304": {
+    "short_name": "Ashmore and Cartier Islands",
+    "full_name": "Territory of Ashmore and Cartier Islands"
+  },
+  "305": {
+    "short_name": "Baker Island",
+    "full_name": ""
+  },
+  "306": {
+    "short_name": "Bouvet Island",
+    "full_name": ""
+  },
+  "307": {
+    "short_name": "Cayman Islands",
+    "full_name": "Cayman Islands"
+  },
+  "308": {
+    "short_name": "Channel Islands",
+    "full_name": ""
+  },
+  "309": {
+    "short_name": "Christmas Island",
+    "full_name": "Territory of Christmas Island"
+  },
+  "310": {
+    "short_name": "Clipperton Island",
+    "full_name": ""
+  },
+  "311": {
+    "short_name": "Cocos (Keeling) Islands",
+    "full_name": "Territory of Cocos (Keeling) Islands"
+  },
+  "312": {
+    "short_name": "Cook Islands",
+    "full_name": ""
+  },
+  "313": {
+    "short_name": "Coral Sea Islands",
+    "full_name": "Coral Sea Islands Territory"
+  },
+  "314": {
+    "short_name": "Diego Garcia",
+    "full_name": ""
+  },
+  "315": {
+    "short_name": "Falkland Islands",
+    "full_name": "Falkland Islands (Islas Malvinas)"
+  },
+  "317": {
+    "short_name": "French Guiana",
+    "full_name": "Department of Guiana"
+  },
+  "318": {
+    "short_name": "French Polynesia",
+    "full_name": "Territory of French Polynesia"
+  },
+  "319": {
+    "short_name": "French Southern and Antarctic Lands",
+    "full_name": "Territory of the French Southern and Antarctic Lands"
+  },
+  "321": {
+    "short_name": "Guadeloupe",
+    "full_name": "Department of Guadeloupe"
+  },
+  "322": {
+    "short_name": "Guam",
+    "full_name": "Territory of Guam"
+  },
+  "323": {
+    "short_name": "Guantanamo Bay",
+    "full_name": ""
+  },
+  "324": {
+    "short_name": "Guernsey",
+    "full_name": "Bailiwick of Guernsey"
+  },
+  "325": {
+    "short_name": "Heard Island and McDonald Islands",
+    "full_name": "Territory of Heard Island and McDonald Islands"
+  },
+  "326": {
+    "short_name": "Howland Island",
+    "full_name": ""
+  },
+  "327": {
+    "short_name": "Jarvis Island",
+    "full_name": ""
+  },
+  "328": {
+    "short_name": "Jersey",
+    "full_name": "Bailiwick of Jersey"
+  },
+  "329": {
+    "short_name": "Kingman Reef",
+    "full_name": ""
+  },
+  "330": {
+    "short_name": "Martinique",
+    "full_name": "Department of Martinique"
+  },
+  "331": {
+    "short_name": "Mayotte",
+    "full_name": "Territorial Collectivity of Mayotte"
+  },
+  "332": {
+    "short_name": "Montserrat",
+    "full_name": "Montserrat"
+  },
+  "333": {
+    "short_name": "Netherlands Antilles",
+    "full_name": ""
+  },
+  "334": {
+    "short_name": "New Caledonia",
+    "full_name": "Territory of New Caledonia and Dependencies"
+  },
+  "335": {
+    "short_name": "Niue",
+    "full_name": ""
+  },
+  "336": {
+    "short_name": "Norfolk Island",
+    "full_name": "Territory of Norfolk Island"
+  },
+  "337": {
+    "short_name": "Northern Mariana Islands",
+    "full_name": "Commonwealth of the Northern Mariana Islands"
+  },
+  "338": {
+    "short_name": "Palmyra Atoll",
+    "full_name": ""
+  },
+  "339": {
+    "short_name": "Pitcairn Islands",
+    "full_name": "Pitcairn, Henderson, Ducie, and Oeno Islands"
+  },
+  "340": {
+    "short_name": "Rota Island",
+    "full_name": ""
+  },
+  "341": {
+    "short_name": "Saipan",
+    "full_name": ""
+  },
+  "342": {
+    "short_name": "South Georgia and the South Sandwich Islands",
+    "full_name": "South Georgia and the South Sandwich Islands"
+  },
+  "343": {
+    "short_name": "St Helena, Ascension and Tristan da Cunha",
+    "full_name": "Saint Helena, Ascension, and Tristan da Cunha"
+  },
+  "346": {
+    "short_name": "Tinian Island",
+    "full_name": ""
+  },
+  "347": {
+    "short_name": "Tokelau",
+    "full_name": "Tokelau"
+  },
+  "348": {
+    "short_name": "Tristan da Cunha",
+    "full_name": ""
+  },
+  "349": {
+    "short_name": "Turks and Caicos Islands",
+    "full_name": "Turks and Caicos Islands"
+  },
+  "351": {
+    "short_name": "Virgin Islands, British",
+    "full_name": "British Virgin Islands"
+  },
+  "352": {
+    "short_name": "Wallis and Futuna",
+    "full_name": "Territory of the Wallis and Futuna Islands"
+  },
+  "742": {
+    "short_name": "Africa",
+    "full_name": ""
+  },
+  "2129": {
+    "short_name": "Asia",
+    "full_name": ""
+  },
+  "10541": {
+    "short_name": "Europe",
+    "full_name": ""
+  },
+  "15126": {
+    "short_name": "Isle of Man",
+    "full_name": "Isle of Man"
+  },
+  "19618": {
+    "short_name": "Macedonia, FYRO",
+    "full_name": "The Former Yugoslav Republic of Macedonia"
+  },
+  "20900": {
+    "short_name": "Melanesia",
+    "full_name": ""
+  },
+  "21206": {
+    "short_name": "Micronesia",
+    "full_name": "Federated States of Micronesia"
+  },
+  "21242": {
+    "short_name": "Midway Islands",
+    "full_name": ""
+  },
+  "23581": {
+    "short_name": "Northern America",
+    "full_name": ""
+  },
+  "26286": {
+    "short_name": "Polynesia",
+    "full_name": ""
+  },
+  "27082": {
+    "short_name": "Central America",
+    "full_name": ""
+  },
+  "27114": {
+    "short_name": "Oceania",
+    "full_name": ""
+  },
+  "30967": {
+    "short_name": "Sint Maarten",
+    "full_name": "Country of Sint Maarten"
+  },
+  "31396": {
+    "short_name": "South America",
+    "full_name": ""
+  },
+  "31706": {
+    "short_name": "Saint Martin",
+    "full_name": "Overseas Collectivity of Saint Martin"
+  },
+  "39070": {
+    "short_name": "World",
+    "full_name": ""
+  },
+  "42483": {
+    "short_name": "Western Africa",
+    "full_name": ""
+  },
+  "42484": {
+    "short_name": "Middle Africa",
+    "full_name": ""
+  },
+  "42487": {
+    "short_name": "Northern Africa",
+    "full_name": ""
+  },
+  "47590": {
+    "short_name": "Central Asia",
+    "full_name": ""
+  },
+  "47599": {
+    "short_name": "South-Eastern Asia",
+    "full_name": ""
+  },
+  "47600": {
+    "short_name": "Eastern Asia",
+    "full_name": ""
+  },
+  "47603": {
+    "short_name": "Eastern Africa",
+    "full_name": ""
+  },
+  "47609": {
+    "short_name": "Eastern Europe",
+    "full_name": ""
+  },
+  "47610": {
+    "short_name": "Southern Europe",
+    "full_name": ""
+  },
+  "47611": {
+    "short_name": "Middle East",
+    "full_name": "Western Asia"
+  },
+  "47614": {
+    "short_name": "Southern Asia",
+    "full_name": ""
+  },
+  "7299303": {
+    "short_name": "Timor-Leste",
+    "full_name": "Democratic Republic of Timor-Leste"
+  },
+  "9914689": {
+    "short_name": "Kosovo",
+    "full_name": "Kosovo"
+  },
+  "10026358": {
+    "short_name": "Americas",
+    "full_name": ""
+  },
+  "10028789": {
+    "short_name": "\u00c5land Islands",
+    "full_name": "\u00c5land Islands"
+  },
+  "10039880": {
+    "short_name": "Caribbean",
+    "full_name": ""
+  },
+  "10039882": {
+    "short_name": "Northern Europe",
+    "full_name": ""
+  },
+  "10039883": {
+    "short_name": "Southern Africa",
+    "full_name": ""
+  },
+  "10210824": {
+    "short_name": "Western Europe",
+    "full_name": ""
+  },
+  "10210825": {
+    "short_name": "Australia and New Zealand",
+    "full_name": ""
+  },
+  "161832015": {
+    "short_name": "Saint Barth\u00e9lemy",
+    "full_name": "Overseas Collectivity of Saint Barth\u00e9lemy"
+  },
+  "161832256": {
+    "short_name": "U.S. Minor Outlying Islands",
+    "full_name": "United States Minor Outlying Islands"
+  },
+  "161832257": {
+    "short_name": "Latin America and the Caribbean",
+    "full_name": ""
+  },
+  "161832258": {
+    "short_name": "Bonaire, Sint Eustatius and Saba",
+    "full_name": ""
+  }
+}

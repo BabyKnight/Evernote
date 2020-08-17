@@ -20,9 +20,9 @@ Roadmap may changes at any time. But you can always find the latest one here.
 * Preview  (Aug. 2020)
     * Unstable release of Basic Desktop application UI
     * Release debian package
-* Alpha (Sep. 2020)
+* Alpha (Aug. 2020)
     * Account switch account between `evernote` and `yinxiang`
-* Beta (Oct. 2020)
+* Beta (Sep. 2020)
     * Support import from local files
 * 1.0.0 (Oct. 2020)
     * Support import from other note application
